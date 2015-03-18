@@ -1,6 +1,7 @@
 # NLPSearch
 
-changes
+Be careful - this is the first version on git need to be cleaned
+
 Some NLP tool for searching in lattices files
  
 ## Fusion_treillis_tresh
