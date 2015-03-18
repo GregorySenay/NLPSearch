@@ -1,4 +1,4 @@
-### Makefile pour SearchOnAcousticMesh => gregory.senay@univ-avignon.fr
+### Makefile pour SearchOnAcousticMesh => firstname.lastname@univ-avignon.fr
 
 ### Compilateur et Options 
 CC=g++
