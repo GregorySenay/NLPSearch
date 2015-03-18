@@ -1,4 +1,4 @@
-### Makefile pour fusion_phon_N_treillis => gregory.senay@univ-avignon.fr
+### Makefile pour fusion_phon_N_treillis
 
 ### Compilateur et Options 
 CC=g++
