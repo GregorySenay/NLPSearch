@@ -1,4 +1,4 @@
-### Makefile pour HTK_Search => gregory.senay@univ-avignon.fr
+### Makefile pour HTK_Search => firstname.lastname@univ-avignon.fr
 
 ### Compilateur et Options 
 CC=g++
