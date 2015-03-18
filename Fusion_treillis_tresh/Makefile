@@ -1,4 +1,4 @@
-### Makefile pour fusion_phon_N_treillis
+### Makefile pour fusion_phon_N_treillis => firstname.lastname@univ-avignon.fr
 
 ### Compilateur et Options 
 CC=g++
