@@ -30,7 +30,7 @@
     Contact :
               GREGORY SENAY - LIA - UNIVERSITE D'AVIGNON
               AGROPARC BP1228 84911  AVIGNON  CEDEX 09  FRANCE
-              gregory.senay@univ-avignon.fr
+              firstname.lastname@univ-avignon.fr
     ..................................................................
 */
 
